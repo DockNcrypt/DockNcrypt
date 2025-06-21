@@ -303,9 +303,11 @@ Even fixing typos or adding docs helps others. Ideas? Add issues or reach out!
 
 ## 🌐 Connect
 
-**Project Repo** 👉 [github.com/Samir-Wankhede/DockNcrypt](https://github.com/Samir-Wankhede/DockNcrypt)
+**Project Repo** 👉 [github.com/DockNcrypt/DockNcrypt](https://github.com/DockNcrypt/DockNcrypt)
 
 **Creator** 👉 [samirwankhede.in](https://samirwankhede.in)
+
+**Python Package** 👉 [github.com/DockNcrypt/DockNcrypt-Python-Package](https://github.com/DockNcrypt/DockNcrypt-Python-Package)
 
 ---
 ```dockerfile
